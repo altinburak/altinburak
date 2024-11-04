@@ -73,4 +73,5 @@
 
 Feel free to reach out for collaboration or just a friendly chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-altinburak-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/altinburak/) [![GitHub](https://img.shields.io/badge/GitHub-BurakAltin-lightgrey?style=flat-square&logo=github)](https://github.com/BurakAltin) [![YouTube](https://img.shields.io/badge/YouTube-Yazılım%20Az
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-altinburak-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/altinburak/) [![GitHub](https://img.shields.io/badge/GitHub-BurakAltin-lightgrey?style=flat-square&logo=github)](https://github.com/BurakAltin) [![YouTube](https://img.shields.io/badge/YouTube-Yazılım%20Azmanı-red?style=flat-square&logo=youtube)](https://www.youtube.com/@YazilimAzmani) [![Medium](https://img.shields.io/badge/Medium-altinburak-black?style=flat-square&logo=medium)](https://altinburak.medium.com/)
