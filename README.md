@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Burak Altin
 
 🎯 **Seasoned Software Developer** with over 20 years of experience and 2 years in IT management. I have a solid track record of leading teams, driving technology enhancements, and implementing best practices in software development. My primary focus is on building high-quality, scalable solutions using C#, .NET, and modern software methodologies.
+---
 
+📞 **Apps**
+- ![image](https://github.com/user-attachments/assets/ace8ac27-8529-4ca8-bc54-f3a8aeb7e9d2)
+ **AI Smart Process**: [aismartprocess.com](https://www.aismartprocess.com)
+- ![image](https://github.com/user-attachments/assets/20a65322-d978-4300-8d0e-fe0ef06d7259)
+ **My Policy Manager**: [mypolicymanager.com.au](https://www.mypolicymanager.com.su)
 ---
 
 📞 **Contact Information**
