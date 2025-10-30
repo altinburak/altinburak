@@ -7,7 +7,7 @@
 - ![image](https://github.com/user-attachments/assets/ace8ac27-8529-4ca8-bc54-f3a8aeb7e9d2)
  **AI Smart Process**: [aismartprocess.com](https://www.aismartprocess.com)
 
- **Fencer App**: [[mypolicymanager.com.au](https://fencerapp.com.au/)]([https://www.mypolicymanager.com.su](https://fencerapp.com.au/))
+ **Fencer App**: [https://fencerapp.com.au] (https://fencerapp.com.au)
 ---
 
 📞 **Contact Information**
