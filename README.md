@@ -4,8 +4,7 @@
 ---
 
 📞 **Apps**
-- ![image](https://github.com/user-attachments/assets/ace8ac27-8529-4ca8-bc54-f3a8aeb7e9d2)
- **Sirius Net Technologies**: [siriusnettechnologies.com](https://www.siriusnettechnologies.com/)
+**Sirius Net Technologies**: [siriusnettechnologies.com](https://www.siriusnettechnologies.com/)
 
  **Fencer App**: [https://fencerapp.com.au] (https://fencerapp.com.au)
 ---
